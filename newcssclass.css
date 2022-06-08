@@ -1,0 +1,33 @@
+body {
+    background: pink;
+    font-family: Arial;
+}
+
+h1 {
+    font-family: Georgia;
+    color: red;
+}
+
+h2 {
+    color: #33adff;
+}
+
+h3 {
+    color: rgb(255, 0, 255);
+}
+
+.blueboldtext {
+    font-size: small;
+    color: blue;
+    font-weight: bold;
+}
+
+.largegreentext {
+    font-size: large;
+    color: green;
+    font-weight: bold;
+}
+
+.underline {
+    text-decoration: underline;
+}
