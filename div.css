@@ -43,3 +43,16 @@
 .txttrans {
     text-transform: uppercase;
 }
+
+.textstyle {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    font-style: oblique;
+    line-height: 200%;
+}
+
+.myborder {
+    border: 4px;
+    border-color: #333333;
+    border-style: double;
+}
