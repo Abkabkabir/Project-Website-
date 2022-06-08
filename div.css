@@ -1,0 +1,45 @@
+#div1 {
+    width: 30%;
+    border: 1px solid black;
+    background: pink;
+    color: blue;
+    position: center;
+    margin: 0px 0px 20px 0px;
+    padding: 30px 0px 0px 30px;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.txtcolor {
+    color: red;
+}
+
+.txtcolor2 {
+    color: #10c212;
+}
+
+.txtcolor3 {
+    color: rgb(160, 50, 90);
+}
+
+.txtspace {
+    letter-spacing: 10px;
+}
+
+.wordspace {
+    word-spacing: 10px;
+}
+
+.txtalign {
+    text-align: center;
+}
+
+.txtdeco {
+    text-decoration: underline;
+}
+
+.txttrans {
+    text-transform: uppercase;
+}
